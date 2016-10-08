@@ -6,7 +6,7 @@ Plots of public [Seattle 911](https://data.seattle.gov/Public-Safety/Seattle-Pol
 
 <br/>
 <br/>
+<img src="images/logos/seattle.png" width="150">
 <img src="images/logos/python.png" width="150">
 <img src="images/logos/matplotlib.png" width="150">
 <img src="images/logos/jupyter.png" width="150">
-<img src="images/logos/seattle.png" width="150">
